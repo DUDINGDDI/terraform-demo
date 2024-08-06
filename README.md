@@ -7,3 +7,6 @@
 ### 설계도
 
 ![alt text](img/img.png)
+
+#### 다음 공부
+[Terraform Module,Var 연습](https://github.com/DUDINGDDI/terraform-module)
